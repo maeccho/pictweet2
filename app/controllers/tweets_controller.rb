@@ -3,6 +3,8 @@ class TweetsController < ApplicationController
     @tweet = Tweet.all
   end
 
-  def new
+  def 
   end
+
+  def 
 end
